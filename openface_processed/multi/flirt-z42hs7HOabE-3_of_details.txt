@@ -1,6 +1,7 @@
 Input:clipped_videos/flirt-z42hs7HOabE-3.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/flirt-z42hs7HOabE-3.mp4
 Camera parameters:437.5,437.5,320,180
+Output video:flirt-z42hs7HOabE-3.avi
 Output csv:flirt-z42hs7HOabE-3.csv
 Gaze: 1
 AUs: 1

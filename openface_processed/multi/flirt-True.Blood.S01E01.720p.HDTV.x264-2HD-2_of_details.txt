@@ -1,6 +1,7 @@
 Input:clipped_videos/flirt-True.Blood.S01E01.720p.HDTV.x264-2HD-2.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/flirt-True.Blood.S01E01.720p.HDTV.x264-2HD-2.mp4
 Camera parameters:875,875,640,360
+Output video:flirt-True.Blood.S01E01.720p.HDTV.x264-2HD-2.avi
 Output csv:flirt-True.Blood.S01E01.720p.HDTV.x264-2HD-2.csv
 Gaze: 1
 AUs: 1

@@ -1,6 +1,7 @@
 Input:clipped_videos/nonflirt-v2VgA_MCNDg-4.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/nonflirt-v2VgA_MCNDg-4.mp4
 Camera parameters:875,875,640,360
+Output video:nonflirt-v2VgA_MCNDg-4.avi
 Output csv:nonflirt-v2VgA_MCNDg-4.csv
 Gaze: 1
 AUs: 1

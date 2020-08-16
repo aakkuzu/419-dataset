@@ -1,6 +1,7 @@
 Input:clipped_videos/nonflirt-ImEnWAVRLU0-6.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/nonflirt-ImEnWAVRLU0-6.mp4
 Camera parameters:875,875,640,360
+Output video:nonflirt-ImEnWAVRLU0-6.avi
 Output csv:nonflirt-ImEnWAVRLU0-6.csv
 Gaze: 1
 AUs: 1

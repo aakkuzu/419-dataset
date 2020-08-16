@@ -1,6 +1,7 @@
 Input:clipped_videos/nonflirt-PJP-C7TCaM8-0.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/nonflirt-PJP-C7TCaM8-0.mp4
 Camera parameters:437.5,437.5,320,180
+Output video:nonflirt-PJP-C7TCaM8-0.avi
 Output csv:nonflirt-PJP-C7TCaM8-0.csv
 Gaze: 1
 AUs: 1

@@ -1,6 +1,7 @@
 Input:clipped_videos/nonflirt-pBaZo4IQ030-3.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/nonflirt-pBaZo4IQ030-3.mp4
 Camera parameters:875,875,640,360
+Output video:nonflirt-pBaZo4IQ030-3.avi
 Output csv:nonflirt-pBaZo4IQ030-3.csv
 Gaze: 1
 AUs: 1

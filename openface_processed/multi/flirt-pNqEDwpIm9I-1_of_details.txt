@@ -1,6 +1,7 @@
 Input:clipped_videos/flirt-pNqEDwpIm9I-1.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/flirt-pNqEDwpIm9I-1.mp4
 Camera parameters:875,875,640,360
+Output video:flirt-pNqEDwpIm9I-1.avi
 Output csv:flirt-pNqEDwpIm9I-1.csv
 Gaze: 1
 AUs: 1

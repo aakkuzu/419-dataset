@@ -1,6 +1,7 @@
 Input:clipped_videos/flirt-5.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/flirt-5.mp4
 Camera parameters:293.75,293.75,216,120
+Output video:flirt-5.avi
 Output csv:flirt-5.csv
 Gaze: 1
 AUs: 1

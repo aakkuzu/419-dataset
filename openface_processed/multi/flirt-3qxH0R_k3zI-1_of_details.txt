@@ -1,6 +1,7 @@
 Input:clipped_videos/flirt-3qxH0R_k3zI-1.mp4
 Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/flirt-3qxH0R_k3zI-1.mp4
 Camera parameters:323.958,323.958,244,128
+Output video:flirt-3qxH0R_k3zI-1.avi
 Output csv:flirt-3qxH0R_k3zI-1.csv
 Gaze: 1
 AUs: 1
