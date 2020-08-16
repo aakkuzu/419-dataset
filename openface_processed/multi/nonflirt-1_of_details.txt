@@ -1,0 +1,10 @@
+Input:clipped_videos/nonflirt-1.mp4
+Input full path:/home/mary/Desktop/cmpt419/project/clipped_videos/nonflirt-1.mp4
+Camera parameters:293.75,293.75,216,120
+Output csv:nonflirt-1.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 1
+Shape parameters: 0
