@@ -28,7 +28,7 @@ Our project can be executed by running the code in `FinalModel.ipynb`. Please sk
 ### Computed features and model
 * `aggregated_openface_data.pickle`: Python 3 'pickle' of a Pandas Dataframe containing the aggregated output of OpenFace.
 * `audio-features.csv`: contains the audio features. Output of the notebook `CMPT419_project_sound.ipynb`.
-* `Similarity_Matrix`: Python 3 'pickle' of a numpy array used to train the models. Represents the similarity between every pair of clips.
+* `Similarity_Matrix_total`: Python 3 'pickle' of a numpy array used to train the models. Represents the similarity between every pair of clips.
 
 ### Output of OpenFace and FFmpeg
 * `openface_processed/multi/`: OpenFace's output on the clipped_videos. (Not included because it was too large.)
