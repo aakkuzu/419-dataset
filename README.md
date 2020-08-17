@@ -12,7 +12,7 @@ This is our 419-dataset containing flirting videos, and the following gives a in
 
 ## The structure of your code/folders
 
-Our project can be executed by running the code in `FinalModel.ipynb`. Please skip the cell that calculates the similarity matrix, which is used to train our model, because calculating the similarity matrix takes a long time. We saved the matrix to `Similarity_Matrix`.
+Our project can be executed by running the code in `FinalModel.ipynb`. Please skip the cell that calculates the similarity matrix, which is used to train our model, because calculating the similarity matrix takes a long time. We saved the matrix to `Similarity_Matrix_total`.
 
 ### Notebooks
 * `Clips&Annotation.ipynb`: textual descriptions of the videos in `clipped_videos/`.
