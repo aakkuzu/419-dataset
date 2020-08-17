@@ -16,10 +16,10 @@ Our project can be executed by running the code in `FinalModel.ipynb`. Please sk
 
 ### Notebooks
 * `Clips&Annotation.ipynb`: textual descriptions of the videos in `clipped_videos/`.
-* `FinalModel.ipynb`: K-NN and clustering model. Creates the file `aggregated_openface_data.pickle` if it does not exist.
+* `FinalModel.ipynb`: k-NN and k-means models. Creates the file `aggregated_openface_data.pickle` if it does not exist.
 * `419_Project_Data_PreProcessing.ipynb`: runs OpenFace on the clipped_videos. Saves the features to `openface_processed/multi/`.
-* `419_Project_Analysis.ipynb`: cluster the OpenFace data using tslearn and create a TensorFlow model.
 * `Semi_Supervised.ipynb`: semi-supervised learning on the OpenFace data using TensorFlow.
+* `419_Project_Analysis.ipynb`: cluster the OpenFace data using tslearn.
 * `CMPT419_project_sound.ipynb`: get the audio features. Saves the features to `audio-features.csv` and the audio files to `audio_output/`.
 
 ### Collected dataset
